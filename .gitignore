@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ledger/
+demo/
+proposal.json
+proposed.json
